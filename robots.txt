@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wild-bandito.moscow/sitemap.xml
